@@ -10,6 +10,8 @@ __***My best submission:***__
 ## This Notebook is also available in Kaggle
 [Kaggle Notebook](https://www.kaggle.com/adityaayyagari/house-prices-advanced-regression-aditya-ayyagari)
 
+If you find this useful, please give me an upvote there! :+1:
+
 __What do you get to explore here__:
 
 - Data Cleaning and Preprocessing
@@ -17,7 +19,12 @@ __What do you get to explore here__:
 - Advanced Regression Techniques
 
 
+## Top 3 Data Science Projects to Kickstart your Learning:
 
+A list of top three projects you should take up, to build a strong technical foundation that will help you solve real world problems with ease.
+[ Tutorials included ]
+
+[Medium Blog](https://medium.com/@aditya.ayyagari97/top-3-data-science-projects-to-kickstart-your-learning-2a3444e5dbc9)
 
 
 

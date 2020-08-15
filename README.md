@@ -1,4 +1,7 @@
 # python-house-prices-solution
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 __My solution to the House Prices: Advanced Regression Techniques - Kaggle Competition__
 
 __***My best submission:***__

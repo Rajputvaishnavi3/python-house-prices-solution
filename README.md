@@ -33,4 +33,4 @@ A list of top three projects you should take up, to build a strong technical fou
 
 ## Wanna Connect?
 
-[LinkedIn](https://www.linkedin.com/in/adityaayyagari/)  |  [GitHub](https://github.com/aditya-ayyagari97)  |  [Instagram](https://www.instagram.com/aditya.ayyagari97/?hl=en)
+[LinkedIn](https://www.linkedin.com/in/adityaayyagari/)  |  [GitHub](https://github.com/aditya-ayyagari97)  |  [Instagram](https://www.instagram.com/aditya.ayyagari97/?hl=en)  |  [Medium](https://medium.com/@aditya.ayyagari97)  |  [Website](https://aditya-ayyagari97.github.io/)
